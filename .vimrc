@@ -55,6 +55,7 @@ set smartcase
 
 set number
 set numberwidth=4
+set backspace=indent,eol,start
 
 "highlight CursorLineNr   term=bold ctermfg=Yellow gui=bold guifg=Red
 "highlight CursorLine     guibg=#222222 gui=none
